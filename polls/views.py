@@ -9,6 +9,7 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.core.urlresolvers import reverse
 from polls.models import Choice, Poll
 
+
 def index(request):
     #return HttpResponse("Hello, world. You're at the poll index.")
     latest_poll_list = Poll.objects.all().order_by('-pub_date')[:5]
@@ -35,17 +36,10 @@ def detail(request, poll_id):
     # return HttpResponse("You're looking at poll %s" % poll_id)
 
 
-def results(request, poll_id):
-    return HttpResponse("You're looking at the results of poll %s" % poll_id)
-
-
-#def vote(request, poll_id):
-#    return HttpResponse("You're voting on poll %s" % poll_id)
-
 def vote(request, poll_id):
     p = get_object_or_404(Poll, pk=poll_id)
     try:
-        selected_choice = p.choice_set.get(pk=request.POST['choice'])
+        selected_choice = p.choices.get(pk=request.POST['choice'])
     except (KeyError, Choice.DoesNotExist):
         # Redisplay the poll voting form
         return render(request, 'detail.html', {
@@ -58,7 +52,7 @@ def vote(request, poll_id):
         # Always return an HttpResponseREdirect after successfully dealing
         # with POST data. This prevents data from being posted twice
         # if a user hist the BACK button.
-        return HttpResponseRedirect(reverse('polls:results', args=(p.id,) ))
+        return HttpResponseRedirect(reverse('polls:results', args=(p.id,)))
 
 
 def results(request, poll_id):
