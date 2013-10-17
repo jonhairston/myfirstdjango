@@ -4,8 +4,7 @@ from django.http import HttpResponse
 from django.http import Http404
 # from django.template import RequestContext, loader
 from django.shortcuts import render, get_object_or_404
-
-from django.http import HttpResponseRedirect, HttpResponse
+from django.http import HttpResponseRedirect
 from django.core.urlresolvers import reverse
 from django.views import generic
 
@@ -47,8 +46,8 @@ class IndexView(generic.ListView):
     context_object_name = 'latest_poll_list'
 
     def get_queryset(self):
-        """Return the last two published polls."""
-        return Poll.objects.order_by('-pub_date')[:2]
+        """Return the last five published polls."""
+        return Poll.objects.order_by('-pub_date')[:5]
 
 
 class DetailView(generic.DetailView):

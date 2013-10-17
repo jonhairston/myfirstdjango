@@ -1,0 +1,26 @@
+{#<h1>{{ poll.question }}</h1>#}
+{#<ul>#}
+{#	{% for choice in poll.choice_set.all %}#}
+{#	<li>{{ choice.choice_text }}</li>#}
+{#	{% endfor %}#}
+{#</ul>#}
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<form action="{% url 'polls:vote' poll.id %}" method="post">
+{% csrf_token %}
+{% for choice in poll.choices.all %}
+    <label for="choice{{ forloop.counter }}">{{ choice.choice_text }}</label>
+    <input type=radio name="choice" id="choice{{ forloop.counter }}" value="{{ choice.id }}" />
+{% endfor %}
+<input type="submit" value="Vote" />
+</form>
+
+{# remember this here         #}
+{# from polls.models import * #}
+{# polls= Poll.objects.all    #}
+{# poll.choices.all           #}
+{# how to create new choice objects #}
+{# choice = Choice.objects.create(poll=polls[1], choice_text='I hate the show glee') #}
+
+
