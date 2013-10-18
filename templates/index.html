@@ -1,11 +1,43 @@
+{# load static files i.e., files that are not in python, such as #}
+{# the css and js you would need #}
+{% load static from staticfiles %}
 {% load url from future %}  {# Deprecated in django 1.6 #}
 
-{% if latest_poll_list %}
-    <ul>
-    {% for poll in latest_poll_list %}
-        <li><a href="{% url 'polls:detail' poll.id %}">{{ poll.question }}</a></li>
-    {% endfor %}
-    </ul>
-{% else %}
-    <p>No polls are available.</p>
-{% endif %}
+<!doctype html>
+<html lang="en">
+{% block head %}
+<head>
+    <meta charset="UTF-8">
+
+    {% block css %}
+    {# in the href you put static as shown here to tell django that this is a static file coming #}
+    {# from the static folder you provided and the rest is just a regular url #}
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}" />
+    {% endblock css %}
+
+{#    <style type="text/css">#}
+{#        a {#}
+{#            color: green;#}
+{#            font-weight: bold;#}
+{#        }#}
+{#        a:hover {#}
+{#            color: lightblue;#}
+{#        }#}
+{#    </style>#}
+</head>
+{% endblock head %}
+<body>
+    {% block content %}
+        <h1>Poll's List</h1>
+        {% if latest_poll_list %}
+            <ul>
+            {% for poll in latest_poll_list %}
+                <li><a href="{% url 'polls:detail' poll.id %}">{{ poll.question }}</a></li>
+            {% endfor %}
+            </ul>
+        {% else %}
+            <p>No polls are available.</p>
+        {% endif %}
+    {% endblock content %}
+</body>
+</html>

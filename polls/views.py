@@ -41,8 +41,11 @@ from polls.models import Choice, Poll
 #    poll = get_object_or_404(Poll, pk=poll_id)
 #    return render(request, 'results.html', {'poll': poll})
 
+# Drew wants these as functional views because of the awesomeness provided
+# ill have to do some more research on this soon hmmmmmmmmmm
+
 class IndexView(generic.ListView):
-    template_name = 'polls/index.html'
+    template_name = 'index.html'
     context_object_name = 'latest_poll_list'
 
     def get_queryset(self):
@@ -52,12 +55,12 @@ class IndexView(generic.ListView):
 
 class DetailView(generic.DetailView):
     model = Poll
-    template_name = 'polls/detail.html'
+    template_name = 'detail.html'
 
 
 class ResultsView(generic.DetailView):
     model = Poll
-    template_name = 'polls/results.html'
+    template_name = 'results.html'
 
 
 def vote(request, poll_id):

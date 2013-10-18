@@ -69,9 +69,11 @@ MEDIA_URL = ''
 
 # Absolute path to the directory static files should be collected to.
 # Don't put anything in this directory yourself; store your static files
-# in apps' "static/" subdirectories and in STATICFILES_DIRS.
+# in the apps' "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/var/www/example.com/static/"
-STATIC_ROOT = project_path('templates/static')
+STATIC_ROOT = project_path('templates/collected')
+
+DEV_STATIC_ROOT = project_path('templates/static')
 
 # URL prefix for static files.
 # Example: "http://example.com/static/", "http://static.example.com/"
@@ -82,7 +84,7 @@ STATICFILES_DIRS = (
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    project_path('templates/collected'),
+    project_path('templates/static/'),
 )
 
 # List of finder classes that know how to find static files in
@@ -103,6 +105,7 @@ TEMPLATE_LOADERS = (
     #'django.template.loaders.eggs.Loader',
 )
 
+# this is where you tell django to look for your templates(index.html, detail pages about us...)
 TEMPLATE_DIRS = (
     project_path('templates'),
 )

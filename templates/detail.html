@@ -1,3 +1,5 @@
+{# Here is where you would extend the parent template that blocks inherit from #}
+{% extends 'index.html' %}
 {#<h1>{{ poll.question }}</h1>#}
 {#<ul>#}
 {#	{% for choice in poll.choice_set.all %}#}
@@ -5,6 +7,17 @@
 {#	{% endfor %}#}
 {#</ul>#}
 
+
+{# block content is for when you want to overwrite content in an html page #}
+{# for django template inheritance. Template inheritance allows you to build a base skeleton template #}
+{# that contains all the common elements of your site and defines blocks that child templates can override #}
+
+{% block content %}
+{# Here is where if you wanted to still include the attributes from the parent template #}
+{# i.e. append them to this page #}
+{{ block.super }}
+
+{# then continue with your template logic #}
 {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
 
 <form action="{% url 'polls:vote' poll.id %}" method="post">
@@ -16,6 +29,10 @@
 <input type="submit" value="Vote" />
 </form>
 
+{# don't forget your endblocks #}
+{% endblock content %}
+
+{# if you had to create choices via code instead of the admin panel #}
 {# remember this here         #}
 {# from polls.models import * #}
 {# polls= Poll.objects.all    #}

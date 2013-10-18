@@ -1,0 +1,8 @@
+a {
+    color:green;
+    font-weight: 500;
+}
+
+a:hover {
+    color: lightgoldenrodyellow;
+}
