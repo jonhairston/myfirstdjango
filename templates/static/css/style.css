@@ -1,8 +1,9 @@
+/*anytime you make changes to me run collectstatic in manage.py to make sure my changes get updated */
 a {
     color:green;
     font-weight: 500;
 }
 
 a:hover {
-    color: lightgoldenrodyellow;
+    color: lightsteelblue;
 }
