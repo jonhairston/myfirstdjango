@@ -2,96 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dab956e-00f7-4ca3-a759-4d3b1348ee01" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\polls\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\polls\poll_list.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\polls\templates\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\polls\templates\poll_list.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\polls\404.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\polls\detail.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\polls\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\polls\results.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\changelists.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\dashboard.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\forms.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\login.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\css\widgets.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\changelist-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\changelist-bg_rtl.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\chooser-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\chooser_stacked-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\default-bg-reverse.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\default-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\deleted-overlay.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\gis\move_vertex_off.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\gis\move_vertex_on.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon-no.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon-unknown.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon-yes.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_addlink.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_alert.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_calendar.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_changelink.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_clock.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_deletelink.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_error.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_searchbox.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\icon_success.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\inline-delete-8bit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\inline-delete.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\inline-restore-8bit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\inline-restore.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\inline-splitter-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\nav-bg-grabber.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\nav-bg-reverse.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\nav-bg-selected.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\nav-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\selector-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\selector-search.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\sorting-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tool-left.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tool-left_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tool-right.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tool-right_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tooltag-add.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tooltag-add_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tooltag-arrowright.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\img\tooltag-arrowright_over.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\LICENSE-JQUERY.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\SelectBox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\SelectFilter2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\actions.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\actions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\admin\DateTimeShortcuts.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\admin\RelatedObjectLookups.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\admin\ordering.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\collapse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\core.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\getElementsBySelector.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\inlines.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\inlines.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\jquery.init.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\prepopulate.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\prepopulate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\timeparse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\hairs_000\repos\mysite\templates\static\admin\js\urlify.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/polls/api.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/db/temp.db" afterPath="$PROJECT_DIR$/mysite/db/temp.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/detail.html" afterPath="$PROJECT_DIR$/templates/detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/models.py" afterPath="$PROJECT_DIR$/polls/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/results.html" afterPath="$PROJECT_DIR$/templates/results.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mysite.iml" afterPath="$PROJECT_DIR$/.idea/mysite.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/settings.py" afterPath="$PROJECT_DIR$/mysite/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/collected/css/style.css" afterPath="$PROJECT_DIR$/templates/collected/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/static/css/style.css" afterPath="$PROJECT_DIR$/templates/static/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/urls.py" afterPath="$PROJECT_DIR$/mysite/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/urls.py" afterPath="$PROJECT_DIR$/polls/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/views.py" afterPath="$PROJECT_DIR$/polls/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mysite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,16 +36,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="4" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="851">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="1" selection-start="1307" selection-end="1307" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="989">
+            <state line="14" column="26" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -135,7 +45,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="73" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
+            <state line="0" column="73" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
@@ -144,56 +54,29 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="0" selection-end="102" vertical-scroll-proportion="-0.76666665" vertical-offset="0" max-vertical-offset="1173">
+            <state line="1" column="0" selection-start="0" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="867">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="detail.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="detail.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="45" selection-start="254" selection-end="299" vertical-scroll-proportion="0.24505328" vertical-offset="0" max-vertical-offset="1196">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="results.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/results.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="-2.3" vertical-offset="0" max-vertical-offset="391">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="0" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.0" vertical-offset="992" max-vertical-offset="1771">
+            <state line="7" column="45" selection-start="254" selection-end="299" vertical-scroll-proportion="-3.8846154" vertical-offset="18" max-vertical-offset="884">
               <folding>
-                <element signature="e#27#63#0" expanded="true" />
+                <marker date="1382244570799" expanded="true" signature="1011:1297" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
+      <file leaf-file-name="api.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polls/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/polls/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="55" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1012">
+            <state line="27" column="36" selection-start="928" selection-end="928" vertical-scroll-proportion="0.65106386" vertical-offset="0" max-vertical-offset="705">
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#19#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,7 +90,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -220,24 +103,25 @@
         <option value="$PROJECT_DIR$/templates/404.html" />
         <option value="$PROJECT_DIR$/templates/static/polls/style.css" />
         <option value="$PROJECT_DIR$/polls/templates/index.html" />
-        <option value="$PROJECT_DIR$/mysite/settings.py" />
         <option value="$PROJECT_DIR$/templates/collected/css/style.css" />
         <option value="$PROJECT_DIR$/polls/models.py" />
-        <option value="$PROJECT_DIR$/mysite/urls.py" />
-        <option value="$PROJECT_DIR$/polls/urls.py" />
         <option value="$PROJECT_DIR$/polls/views.py" />
         <option value="$PROJECT_DIR$/templates/static/css/style.css" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/results.html" />
         <option value="$PROJECT_DIR$/templates/detail.html" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/polls/api.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1050" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -280,7 +164,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
+              <option name="myItemId" value="myfirstdjango" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -290,57 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
+              <option name="myItemId" value="myfirstdjango" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -354,7 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
+              <option name="myItemId" value="myfirstdjango" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -369,14 +203,14 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.29666665" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -477,27 +311,7 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mysite" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -523,7 +337,27 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mysite" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -626,8 +460,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -635,11 +469,11 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13229166" sideWeight="0.78941566" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13229166" sideWeight="0.79112554" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21058434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20887446" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -648,26 +482,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905483" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13247283" sideWeight="0.789177" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.210823" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -684,6 +498,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="55" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polls/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="1" selection-start="564" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408">
@@ -694,9 +515,7 @@
     <entry file="file://$PROJECT_DIR$/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="0" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="748">
-          <folding>
-            <element signature="e#27#63#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -709,53 +528,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/collected/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="82" selection-end="82" vertical-scroll-proportion="0.20566319" vertical-offset="0" max-vertical-offset="671">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="260" selection-end="260" vertical-scroll-proportion="0.36826783" vertical-offset="0" max-vertical-offset="4025">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="851">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
-          <folding />
-        </state>
+        <state line="6" column="26" selection-start="82" selection-end="82" vertical-scroll-proportion="0.20566319" vertical-offset="0" max-vertical-offset="671" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polls/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="55" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1012">
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="0" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.0" vertical-offset="992" max-vertical-offset="1771">
-          <folding>
-            <element signature="e#27#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="1" selection-start="1307" selection-end="1307" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="989">
           <folding />
         </state>
       </provider>
@@ -767,24 +545,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="-2.3" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="0" selection-end="102" vertical-scroll-proportion="-0.76666665" vertical-offset="0" max-vertical-offset="1173">
+        <state line="1" column="0" selection-start="0" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="867">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="45" selection-start="254" selection-end="299" vertical-scroll-proportion="0.24505328" vertical-offset="0" max-vertical-offset="1196">
+        <state line="7" column="45" selection-start="254" selection-end="299" vertical-scroll-proportion="-3.8846154" vertical-offset="18" max-vertical-offset="884">
+          <folding>
+            <marker date="1382244570799" expanded="true" signature="1011:1297" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="874">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="2336" selection-end="2336" vertical-scroll-proportion="0.8540773" vertical-offset="593" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="0.075780086" vertical-offset="0" max-vertical-offset="673">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="26" selection-start="4422" selection-end="4422" vertical-scroll-proportion="0.24320458" vertical-offset="1972" max-vertical-offset="3026">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1307" selection-end="1307" vertical-scroll-proportion="0.8783977" vertical-offset="32" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="36" selection-start="928" selection-end="928" vertical-scroll-proportion="0.65106386" vertical-offset="0" max-vertical-offset="705">
+          <folding>
+            <element signature="e#19#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -35,4 +35,6 @@ urlpatterns = patterns('',
 
    # this url needs too be on the root not here in the apps urls.py
    # url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': STATIC_ROOT})
+
+
 )
